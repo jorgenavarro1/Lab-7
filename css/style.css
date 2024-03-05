@@ -29,12 +29,12 @@ th,  .anton-regular {
 h1, .madimi-one-regular {
   	font-family: "Madimi One", sans-serif;
   	font-weight: 400;
-  	font-style: regular;
+  	font-style: normal;
 }
 td, .dm-serif display-regular {
   	font-family: "DM Serif Display", serif;
   	font-weight: 400;
-  	font-style: regular;
+  	font-style: normal;
 }
 table{
 	background-color: lightblue;
@@ -44,7 +44,7 @@ body{
  }
  nav#list ul {
   	list-style-type:none;
-  	padding: 10;
+  	padding: 10px;
   	margin: 0;
 }
 nav#list ul li {
