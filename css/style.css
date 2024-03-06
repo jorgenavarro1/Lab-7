@@ -3,6 +3,7 @@ td, th {
   }
 table {
   	width: 100%;
+  	background-color: lightblue;
 }
 tr#names {
 	height:70px;
@@ -12,9 +13,6 @@ tr#names {
 }
 h1, tr, td#center {
 	text-align: center;
-}
-table {
-  	empty-cells: hide;
 }
 img{
   	border-radius: 10px;
@@ -31,22 +29,16 @@ td, .dm-serif display-regular {
   	font-weight: 400;
   	font-style: normal;
 }
-table{
-	background-color: lightblue;
-}
 body{
 	background-color: darkgray;
  }
- nav#list ul {
+nav#list ul {
   	list-style-type:none;
   	padding: 10px;
   	margin: 0;
 }
 nav#list ul li {
 	margin:5px 0;
-}
-nav#list ul li a {
-
 }
 nav#list ul li a {
 	display:block;
